@@ -1,0 +1,31 @@
+{
+  "passengers": [
+    {
+      "fullname": "Steve john",
+      "id": 1,
+      "checkedIn": true,
+      "baggage": "none",
+      "checkInDate": 1599988979718
+    },
+    {
+      "fullname": "Todd",
+      "id": 3,
+      "checkedIn": true,
+      "baggage": "hold-only",
+      "checkInDate": 1488412800000
+    },
+    {
+      "id": 4,
+      "fullname": "Louise",
+      "checkedIn": true,
+      "checkInDate": 1488412800000,
+      "baggage": ""
+    },
+    {
+      "fullname": "Tina lelo",
+      "id": 5,
+      "checkedIn": false,
+      "baggage": "hand-only"
+    }
+  ]
+}
