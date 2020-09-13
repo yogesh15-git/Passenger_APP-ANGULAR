@@ -2,7 +2,7 @@
 
 # Angular Fundamentals Seed
 
-> This is the seed project for the [Angular Fundamentals](https://ultimateangular.com/courses/#angular-2) course by [Todd Motto](https://twitter.com/toddmotto).
+> This is the seed project for the [Angular Fundamentals] course by [Todd Motto].
 
 ## Project Setup and Tooling
 
